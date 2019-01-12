@@ -18,7 +18,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1547282287029">
+      <file name="/Python Console" timestamp="1547288707150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1547267343145">
@@ -45,6 +45,11 @@
       <file name="D:/Python_Learn_DOC/PythonCookbook/delete_same_element_in_previous_order.py" timestamp="1547267332914">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Python_Learn/PythonCookbook/delete_duplicate.py" timestamp="1547288478669">
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="5" />
+        <mark key="." line="20" column="5" />
+      </file>
       <file name="D:/Python_Learn_DOC/PythonCookbook/test.py" timestamp="1547267683949">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="9" column="42" />
@@ -68,11 +73,11 @@
       <jump line="27" column="9" filename="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4ID0gbGFtYmRhIDogbGlzdChyYW5kb20uY2hvaWNlKHN0cmluZy5hc2NpaV9sZXR0ZXJzKSkK</text>
