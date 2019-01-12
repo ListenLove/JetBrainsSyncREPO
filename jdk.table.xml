@@ -1,0 +1,122 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.13 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python27" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (C:\Python27\python3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="C:\Python27\python3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python27/python3/DLLs" type="simple" />
+            <root url="file://C:/Python27/python3/Lib" type="simple" />
+            <root url="file://C:/Python27/python3" type="simple" />
+            <root url="file://C:/Python27/python3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/753628942" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.3 (C:\Python35\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="C:\Python35\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python35/DLLs" type="simple" />
+            <root url="file://C:/Python35/Lib" type="simple" />
+            <root url="file://C:/Python35" type="simple" />
+            <root url="file://C:/Python35/Lib/site-packages" type="simple" />
+            <root url="file://C:/Python35/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Python35/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Python35/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1313743207" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Python_Learn_DOC)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="D:\Python_Learn_DOC\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python27/python3/DLLs" type="simple" />
+            <root url="file://C:/Python27/python3/Lib" type="simple" />
+            <root url="file://C:/Python27/python3" type="simple" />
+            <root url="file://D:/Python_Learn_DOC/venv" type="simple" />
+            <root url="file://D:/Python_Learn_DOC/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/Python_Learn_DOC/venv/Lib/site-packages/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://D:/Python_Learn_DOC/venv/Lib/site-packages/pip-10.0.1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/2047336771" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Python_Learn_DOC" />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,65 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Pyramid</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="227-227-227-255,,,0-149-0-255,,,85-8-0-255,,,165-12-0-255,,,165-7-142-255,,,187-185-0-255,,,0-137-201-255,,,12-204-32-255,,,223-224-238-255,,,205-12-0-255,,,255-99-91-255,,,240-241-255-255,,,0-175-113-255,,,70-175-57-255,,,187-179-0-255,,,187-57-0-255,,,204-194-0-255,,,198-0-29-255,,,174-94-198-255,,,255-87-51-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="Darcula copy" />
+    <property name="Default.savedEditorTheme" value="_@user_Github" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="KEYMAP" value="minimap" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="PACKAGE_FILTER" value="opengl&#10;wifi&#10;pywifi" />
+    <property name="PLUGIN_FILTER" value="vim&#10;idea&#10;monokai theme" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="evlsprt3.171" value="18" />
+    <property name="evlsprt3.181" value="16" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="file.chooser.recent.files" value="F:/Paly&#10;F:/&#10;D:/Python_Learn_DOC&#10;D:/&#10;C:/Users/ASUS/PycharmProjects/Node/node.py&#10;C:/Users/ASUS/PycharmProjects&#10;F:/PygameProject3.6&#10;F:/PhoneAndEmailRe&#10;C:/Program Files/Jetbrains/WebStorm 2017.1.4/plugins/CodeGlance/lib/codeglance-1.5.2.jar&#10;F:/Pygame" />
+    <property name="file.gist.reindex.count" value="67987" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="ideavim.statistics.timestamp" value="1547269122337" />
+    <property name="lastTip" value="7" />
+    <property name="plugins.preselection.path" value="C:/Program Files/Jetbrains/WebStorm 2017.1.4/plugins/CodeGlance/lib" />
+    <property name="python.app.engine.sdk.path" value="" />
+    <property name="selected.color.option.type" value="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python27\python3\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Python27\python3\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

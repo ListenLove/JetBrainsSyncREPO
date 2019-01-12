@@ -1,0 +1,144 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2017-07-02T12:16:58</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2017.1.4.0.0</property>
+    <property name="modified">2017-07-04T19:52:09</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff635b" />
+      </value>
+    </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="dfe0ee" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e3e3e3" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="9500" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="bbb900" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cd0c00" />
+      </value>
+    </option>
+    <option name="PY.BRACES">
+      <value>
+        <option name="FOREGROUND" value="3c3f41" />
+      </value>
+    </option>
+    <option name="PY.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="bb3900" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="c62940" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="f0f1ff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.COMMA">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="PY.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="629755" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="629755" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.DOT">
+      <value />
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ff5733" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="46af39" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ccc200" />
+      </value>
+    </option>
+    <option name="PY.OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="bb3900" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ff635b" />
+      </value>
+    </option>
+    <option name="PY.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="bb3900" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="89c9" />
+      </value>
+    </option>
+    <option name="PY.VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
