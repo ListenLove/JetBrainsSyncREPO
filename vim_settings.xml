@@ -51,11 +51,11 @@
         <mark key="^" line="10" column="50" />
         <mark key="." line="10" column="50" />
       </file>
-      <file name="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" timestamp="1547282165327">
+      <file name="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" timestamp="1547282171936">
         <mark key="'" line="9" column="12" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
         <mark key="^" line="20" column="3" />
       </file>
     </filemarks>
@@ -66,11 +66,11 @@
       <jump line="9" column="12" filename="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4ID0gbGFtYmRhIDogbGlzdChyYW5kb20uY2hvaWNlKHN0cmluZy5hc2NpaV9sZXR0ZXJzKSkK</text>
