@@ -3,144 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1547280551969">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/CLionProjects/PracticeProject/TicketsBookingSystem/Tickets.h" timestamp="1551221282498">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
       </file>
-      <file name="D:/Python_Learn_DOC/PythonCookbook/store_limit_history.py" timestamp="1547186902385">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="7" column="24" />
-      </file>
-      <file name="D:/Python_Learn_DOC/STL/HOWTO_CSV.py" timestamp="1547182131070">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1554866669204">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1547267343145">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/EffectivePython/to_str.py" timestamp="1531142906326">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="D:/Python_Learn_DOC/user_heapq.py" timestamp="1547189822953">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-      </file>
-      <file name="D:/Python_Learn_DOC/PythonCookbook/user_heapq.py" timestamp="1547187442616">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="19" column="14" />
-      </file>
-      <file name="D:/Python_Learn_DOC/PythonCookbook/delete_same_element_in_previous_order.py" timestamp="1547267332914">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Python_Learn/PythonCookbook/delete_duplicate.py" timestamp="1547365563250">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="18" />
-        <mark key="." line="28" column="18" />
-        <mark key="^" line="28" column="18" />
-      </file>
-      <file name="D:/Python_Learn_DOC/PythonCookbook/test.py" timestamp="1547267683949">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="42" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="50" />
-      </file>
-      <file name="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" timestamp="1547282452201">
-        <mark key="'" line="26" column="9" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="28" column="73" />
-      </file>
+      <file name="$USER_HOME$/CLionProjects/PracticeProject/main.c" timestamp="1551220408472" />
     </filemarks>
-    <jumps>
-      <jump line="21" column="0" filename="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" />
-      <jump line="22" column="22" filename="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" />
-      <jump line="9" column="12" filename="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" />
-      <jump line="29" column="3" filename="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" />
-      <jump line="1" column="9" filename="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" />
-      <jump line="27" column="9" filename="D:/Python_Learn_DOC/PythonCookbook/delete_duplicate.py" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGwgPSB7fQogICAgZm9yIGkgaW4gcmFuZ2UoMTIpOgogICAgICAgIGxbcmFuZG9tLmNob2ljZShzdHJpbmcuYXNjaWlfbGV0dGVycyldID0gKHJhbmRvbS5yYW5kaW50KDk0LCAxMDApKQo=</text>
+      <register name="&quot;" type="4">
+        <text>train</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGwgPSB7fQogICAgZm9yIGkgaW4gcmFuZ2UoMTIpOgogICAgICAgIGxbcmFuZG9tLmNob2ljZShzdHJpbmcuYXNjaWlfbGV0dGVycyldID0gKHJhbmRvbS5yYW5kaW50KDk0LCAxMDApKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsLmtleXMoKSwgZW5kPScgJykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkKICAgIHByaW50KCcqJyo4MCkKICAgIGZvciBpIGluIGxpc3QoZGVkdXBfaGFzaGFibGUobCkpOgogICAgICAgIHByaW50KGksIGVuZD0nICcpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG51bXMgPSByYW5kb20ucmFuZHJhbmdlKC0xMDAsIDEwMCwgMTIpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGksIGVuZD0nJykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBsaW5lIGluIHByZXZsaW5lOgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGksIHBhdHRlcm4pCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+        <text>train</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>set keep-english-in-normal</entry>
-        <entry>set keep_english_in_normal</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
