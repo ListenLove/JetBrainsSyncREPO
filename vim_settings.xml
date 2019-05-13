@@ -25,8 +25,11 @@
         <mark key="." line="32" column="8" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="/Volumes/WenbinMobile/Ali/test/test_prototype_factory.py" timestamp="1557676037526">
-        <mark key="[" line="52" column="34" />
+      <file name="/Volumes/WenbinMobile/Ali/test/test_prototype_factory.py" timestamp="1557757488412">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="52" column="32" />
+        <mark key="^" line="52" column="32" />
+        <mark key="." line="52" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1547267343145">
         <mark key="[" line="0" column="0" />
@@ -89,9 +92,9 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/Volumes/WenbinMobile/Ali/Compute/prototype_factory.py" timestamp="1557675949170">
+      <file name="/Volumes/WenbinMobile/Ali/Compute/prototype_factory.py" timestamp="1557757358056">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="15" />
+        <mark key="[" line="22" column="43" />
         <mark key="]" line="25" column="15" />
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="15" />
