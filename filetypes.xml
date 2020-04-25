@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="RePhoneAndEmail" type="Native" />
       <mapping pattern="some_numbers" type="PLAIN_TEXT" />
-      <mapping pattern="RePhoneAndEmail.py" type="PLAIN_TEXT" />
       <mapping pattern="CountryPresentCode" type="PLAIN_TEXT" />
+      <mapping pattern="RePhoneAndEmail.py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
