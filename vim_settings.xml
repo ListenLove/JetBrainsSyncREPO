@@ -15,24 +15,48 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1555214739720">
+      <file name="/Python Console" timestamp="1557672662307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Note/.gitignore" timestamp="1555214754172" />
+      <file name="/Volumes/WenbinMobile/Ali/Compute/creator.py" timestamp="1557671292776">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="35" column="0" />
+      </file>
+      <file name="/Volumes/WenbinMobile/Ali/test/test_prototype_factory.py" timestamp="1557757488412">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="52" column="32" />
+        <mark key="^" line="52" column="32" />
+        <mark key="." line="52" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1547267343145">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/EffectivePython/to_str.py" timestamp="1531142906326">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/Volumes/WenbinMobile/Ali/test/test_hasher.py" timestamp="1557671239390">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/Python_Learn_DOC/user_heapq.py" timestamp="1547189822953">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/PracticeProject/TicketsBookingSystem/Tickets.h" timestamp="1551221282498">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+      </file>
+      <file name="/Volumes/WenbinMobile/Ali/test/_trial_temp/test_prototype_factory.py" timestamp="1557675913644">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="D:/Python_Learn_DOC/PythonCookbook/delete_same_element_in_previous_order.py" timestamp="1547267332914">
         <mark key="[" line="0" column="0" />
@@ -62,11 +86,18 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/PracticeProject/TicketsBookingSystem/Tickets.h" timestamp="1551221282498">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="29" />
-        <mark key="^" line="11" column="29" />
-        <mark key="." line="11" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/EffectivePython/to_str.py" timestamp="1531142906326">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/Volumes/WenbinMobile/Ali/Compute/prototype_factory.py" timestamp="1557757358056">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="43" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="15" />
       </file>
       <file name="D:/Python_Learn_DOC/PythonCookbook/user_heapq.py" timestamp="1547187442616">
         <mark key="[" line="18" column="15" />
@@ -75,58 +106,75 @@
         <mark key="." line="19" column="14" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="24" column="14" filename="/Volumes/WenbinMobile/Ali/Compute/prototype_factory.py" />
+      <jump line="1" column="10" filename="/Volumes/WenbinMobile/Ali/Compute/prototype_factory.py" />
+      <jump line="25" column="14" filename="/Volumes/WenbinMobile/Ali/Compute/prototype_factory.py" />
+      <jump line="0" column="0" filename="/Volumes/WenbinMobile/Ali/Compute/prototype_factory.py" />
+      <jump line="35" column="4" filename="/Volumes/WenbinMobile/Ali/Compute/creator.py" />
+      <jump line="37" column="4" filename="/Volumes/WenbinMobile/Ali/test/_trial_temp/test_prototype_factory.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>train</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>train</text>
+        <text>)</text>
+      </register>
+      <register name="/" type="4">
+        <text>self</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGwgPSB7fQogICAgZm9yIGkgaW4gcmFuZ2UoMTIpOgogICAgICAgIGxbcmFuZG9tLmNob2ljZShzdHJpbmcuYXNjaWlfbGV0dGVycyldID0gKHJhbmRvbS5yYW5kaW50KDk0LCAxMDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcihUZXN0UHJvRmFjdG9yeSwgc2VsZikuX19pbml0X18oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsLmtleXMoKSwgZW5kPScgJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBuYSA9IE5hbWUoJ0pvaG4nLCAnQ3VycnknKQogICAgICAgIGZhY3RvcnkgPSBSZWdpc3RyeSgpCiAgICAgICAgZmFjdG9yeS5yZWdpc3RlcihuYSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkKICAgIHByaW50KCcqJyo4MCkKICAgIGZvciBpIGluIGxpc3QoZGVkdXBfaGFzaGFibGUobCkpOgogICAgICAgIHByaW50KGksIGVuZD0nICcpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG51bXMgPSByYW5kb20ucmFuZHJhbmdlKC0xMDAsIDEwMCwgMTIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmYWN0b3J5LnNob3coKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGksIGVuZD0nJykK</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHBsaW5lIGluIHByZXZsaW5lOgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyBBYm9yZyhjcmVhdG9yLklCb3JnKToKICAgICAgICAgICAgcGFzcwoKICAgICAgICBjbGFzcyBBQUJvcmcoY3JlYXRvci5JQm9yZyk6CiAgICAgICAgICAgIHBhc3MKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGksIHBhdHRlcm4pCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz4lcy9zZWxmLy8=</text>
       </register>
     </registers>
     <search>
+      <last-search>self</last-search>
+      <last-pattern>self</last-pattern>
+      <last-replace />
+      <last-substitute>self</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>self</entry>
+      </history-search>
       <history-cmd>
         <entry>set keep-english-in-normal</entry>
         <entry>set keep_english_in_normal</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz4lcy9zZWxmLy8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
